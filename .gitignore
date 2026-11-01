@@ -20,9 +20,4 @@ checkpoints/
 Thumbs.db
 
 # Logs / runs
-runs/
 logs/
-
-# Virtual environments and datasets (keep source code only)
-dataset/
-yolo_dataset/
