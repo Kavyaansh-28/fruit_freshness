@@ -21,3 +21,6 @@ Thumbs.db
 
 # Logs / runs
 logs/
+
+# Dataset (kept locally, not on GitHub)
+dataset/
